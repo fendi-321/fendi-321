@@ -1,10 +1,9 @@
 # Hi — I'm Fendi 👋  
-**DevOps Engineer (seeking roles)** • CI/CD • Cloud • Automation
+**Cloud Engineer (seeking roles)** • CI/CD • Cloud • Automation
 
 ---
 
 ## About me
-I build reliable CI/CD pipelines and automated infrastructure for production systems.  
 Passions: automation, cloud engineering, and learning new technologies (AWS, Azure, GCP).
 
 ---
@@ -31,20 +30,16 @@ Passions: automation, cloud engineering, and learning new technologies (AWS, Azu
 ## 🛠 DevOps Tools & Skills
 
 - **Containerization:** Docker — multi-stage builds, image optimization  
-- **Orchestration:** Kubernetes — manifests, Helm charts, k9s troubleshooting  
-- **Infrastructure as Code:** Terraform — modules, remote state, AWS provider  
-- **CI/CD:** GitHub Actions & Jenkins — build → test → deploy pipelines  
+- **Orchestration:** Kubernetes — k9s troubleshooting  
+- **Infrastructure as Code:** Terraform — modules, remote state, AWS and Azure provider  
+- **CI/CD:** GitHub Actions, Azure Devops & deploy pipelines  
 - **Configuration Management:** Ansible — playbooks for provisioning & app deployment  
-- **Monitoring:** Prometheus & Grafana basics
+- **Monitoring:** Cloudwatch & Azure Analytics
 
 ---
 
 ## 📂 Featured Projects (to be pinned)
 > These will show up once the repos are created
-
-- **devops-cicd-demo** — CI/CD pipeline using GitHub Actions + Jenkins  
-- **devops-terraform-k8s** — Terraform infra + Helm deployment  
-- **devops-ansible-runbooks** — Ansible provisioning & deployment playbooks
 
 ---
 
@@ -65,11 +60,10 @@ Passions: automation, cloud engineering, and learning new technologies (AWS, Azu
 ---
 
 ## 📫 Contact
-- Email: **your.email@example.com**  
-- LinkedIn: **https://www.linkedin.com/in/your-link**  
+- Email: **maffindi@yahoo.com**  
+- LinkedIn: **https://www.linkedin.com/in/maffindi**  
 
 ---
 
 ## 🔒 Notes
-- Secrets are always stored in GitHub Actions or managed via IAM — never committed to repos.  
-- Happy to walk through CI/CD pipelines, Terraform modules, or Kubernetes deployments.
+
