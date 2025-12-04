@@ -47,7 +47,7 @@ Passions: automation, cloud engineering, and learning new technologies (AWS, Azu
 <details>
 <summary>Click to expand GitHub stats</summary>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fendi-321&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fendi-321&layout=compact&hide=html,css)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fendi-321&layout=compact)
 
 </details>
