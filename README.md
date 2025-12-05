@@ -1,10 +1,10 @@
 # Hi — I'm Fendi 👋  
-**Cloud Engineer (seeking roles)** • CI/CD • Cloud • Automation
+**Cloud Engineer (seeking roles)**  • Cloud • Automation • Devops
 
 ---
 
 ## About me
-Passions: automation, cloud engineering, and learning new technologies (AWS, Azure, GCP).
+Passionate about automation, cloud engineering, and learning new technologies (AWS, Azure, GCP).
 
 ---
 
