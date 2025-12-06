@@ -32,7 +32,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 - **Containerization:** Docker — multi-stage builds, image optimization  
 - **Orchestration:** Kubernetes — k9s troubleshooting  
 - **Infrastructure as Code:** Terraform — modules, remote state, AWS and Azure provider  
-- **CI/CD:** GitHub Actions, Azure Devops & deploy pipelines  
+- **CI/CD:** GitHub Actions, Gitlab CI, Azure Devops & deploy pipelines  
 - **Configuration Management:** Ansible — playbooks for provisioning & app deployment  
 - **Monitoring:** Cloudwatch & Azure Analytics
 
