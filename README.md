@@ -39,8 +39,8 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 ---
 
 ## 📂 Featured Projects (to be pinned)
-**Devops-ansible-playbook** — Docker provisioning & Ansible deployment playbooks 
-**Serverless Architecture** — AWS services using Terraform Iac
+- **Devops-ansible-playbook** — Docker provisioning & Ansible deployment playbooks 
+- **Serverless Architecture** — AWS services using Terraform Iac
 
 ---
 
