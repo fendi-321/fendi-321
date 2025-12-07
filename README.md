@@ -41,7 +41,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 ## 📂 Featured Projects (pin repo)
 - **Devops-ansible-playbook** — Docker provisioning & Ansible deployment playbooks 
 - **Serverless Architecture** — AWS services using Terraform Iac
-
+- **Snake Game** - My 1st exploration on frontend using javascript+HTML
 ---
 
 ## 📊 GitHub Activity & Stats
