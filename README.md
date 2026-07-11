@@ -41,6 +41,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 ## 📂 Featured Projects (pin repo)
 - **Devops-ansible-playbook** — Docker provisioning & Ansible deployment playbooks 
 - **Serverless Architecture** — AWS services (S3 bucket with CDN frontend) using Terraform Iac
+- **OnlineResume** — AWS services EC2 and S3 for DB backup using Terraform Iac, as Cloudflare for proxy setup
 - **Snake Game** - My 1st exploration on frontend using javascript+HTML
 ---
 
