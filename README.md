@@ -65,6 +65,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 - Email: **maffindi@yahoo.com**  
 - LinkedIn: **https://www.linkedin.com/in/maffindi**  
 - Website: **www.maffindi.my**
+- Website: **www.maffindi.com (ATS Friendly)**
 ---
 
 ## 🔒 Notes
