@@ -43,6 +43,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 - **Serverless Architecture** — AWS services (S3 bucket with CDN frontend) using Terraform Iac
 - **OnlineResume** — AWS services EC2 and S3 for DB backup using Terraform Iac, as Cloudflare for proxy setup
 - **Snake Game** - My 1st exploration on frontend using javascript+HTML
+- **Monitoring & Health Checks on sites** - Using grafana>Prometheus>Black box for monitoring your own personal site
 ---
 
 ## 📊 GitHub Activity & Stats
