@@ -34,7 +34,7 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 - **Infrastructure as Code:** Terraform — modules, remote state, AWS and Azure provider  
 - **CI/CD:** GitHub Actions, Gitlab CI, Azure Devops & deploy pipelines  
 - **Configuration Management:** Ansible — playbooks for provisioning & app deployment  
-- **Monitoring:** Cloudwatch & Azure Analytics
+- **Monitoring:** Cloudwatch,Grafana,Prometheus,Azure Analytics, Solarwinds
 
 ---
 
