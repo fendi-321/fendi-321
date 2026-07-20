@@ -23,7 +23,9 @@ Passionate about automation, cloud engineering, and learning new technologies (A
 - **Storage Accounts & VMs**
 
 ### ☁️ GCP (Learning)
-- Compute Engine, Cloud Run, IAM basics
+- **Comput**e - Compute Engine, Cloud Run, IAM basics
+- **GKS engine** - Workload,\.
+- **VPC** - VPC networks.
 
 ---
 
